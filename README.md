@@ -1,3 +1,5 @@
+![Empty open cardboard box.](image.png)
+
 # placeholder-container
 Placeholder container image e.g. for spinning up ECS services.
 Returns 200 on all paths. Port is configurable via `NGINX_PORT`.
